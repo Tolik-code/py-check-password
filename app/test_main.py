@@ -21,7 +21,7 @@ import pytest
             id="True if all conditions are met"
         ),
         pytest.param(
-            "dawdwaadwwadFdw&!dawdwaFdw&!",
+            "Fdw&!dawdw1Fdw&!",
             False,
             id="False if too long"
         ),
